@@ -15,5 +15,5 @@
 4. **JS Basics** (Soon)
 
 
-- **حسابي على لينكدإن:** [Omar Abouelkheir]([-elkhair/](https://www.linkedin.com/in/omar-abouelkhier-eg/))
+- **حسابي على لينكدإن:** [Omar Abouelkheir](https://www.linkedin.com/in/omar-abouelkhier-eg/)
 - **حسابي على تيليجرام:** [@Dev3mora](https://t.me/dev3mora)
